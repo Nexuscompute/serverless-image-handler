@@ -15,7 +15,7 @@
     "test": "jest --coverage --silent"
   },
   "dependencies": {
-    "aws-sdk": "^2.1477.0",
+    "aws-sdk": "^2.1527.0",
     "axios": "^1.5.1",
     "moment": "^2.29.4",
     "uuid": "^9.0.1"
